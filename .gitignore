@@ -1,0 +1,13 @@
+# Environments
+.env
+.venv
+env/
+venv/
+ENV/
+evn.bak/
+venv.bak/
+
+# Operating system files
+.DS_Store            # macOS folder attribute files
+Thumbs.db            # Windows image file cache
+ehthumbs.db          # Windows 'eh' thumbs db files
