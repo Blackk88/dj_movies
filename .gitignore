@@ -8,6 +8,7 @@ evn.bak/
 venv.bak/
 
 # Operating system files
+.idea
 .DS_Store            # macOS folder attribute files
 Thumbs.db            # Windows image file cache
-ehthumbs.db          # Windows 'eh' thumbs db files
+ehthumbs.db          # Wizndows 'eh' thumbs db files
